@@ -1,8 +1,5 @@
 # Full Stack Open Exercises
 
-**Repository:** `fullstackopen-exercises`  
-**Description:** Solutions and submissions for the Full Stack Open course by the University of Helsinki.
-
 ---
 
 ## About the Course
