@@ -3,11 +3,13 @@
 ---
 
 ## About the Course
+
 Full Stack Open is a course focused on modern web development using JavaScript and TypeScript. This repository contains my exercise solutions and small projects created while following the course.
 
 ---
 
 ## Topics Covered
+
 - React (functional components, hooks, state management)
 - Node.js & Express (APIs, middleware)
 - MongoDB (Mongoose, data modelling)
@@ -19,8 +21,8 @@ Full Stack Open is a course focused on modern web development using JavaScript a
 ---
 
 ## Repository Structure
+
 ```
-.
 ├── part0/                 # Setup, exercises, learning notes
 ├── part1/                 # Fundamentals of web apps & React basics
 ├── part2/                 # Routing, state, and advanced React
@@ -34,6 +36,7 @@ Full Stack Open is a course focused on modern web development using JavaScript a
 Each `partX/` folder contains subfolders for exercises and small projects. Example layout for a part:
 
 ```
+
 part1/
 ├── exercises/
 │   ├── exercise1/
@@ -51,6 +54,7 @@ part1/
 ---
 
 ## How to Run
+
 Each exercise/project contains its own `README.md` with exact instructions. Typical commands:
 
 ```bash
@@ -67,11 +71,8 @@ npm run dev
 npm test
 ```
 
-
 ---
 
 ## 📬 Contact
+
 If you want to discuss the code or give feedback, open an issue or contact me via my GitHub profile.
-
-
-
